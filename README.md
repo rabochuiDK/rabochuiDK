@@ -1,91 +1,66 @@
-
-<!-- NEON CYBERPUNK PROFILE -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:4c1d95,100:a855f7&height=200&section=header&text=DANIIL.exe&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=STUDENT%20DEVELOPER%20%7C%20ENTERING%20THE%20DIGITAL%20WORLD&descSize=13&descAlignY=60" width="100%" alt="Neon purple cyberpunk banner"/>
+<img src="./assets/neon-city.png" width="100%" alt="Пиксельный ночной город в фиолетовом неоне">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d0618?style=for-the-badge&logo=github&logoColor=c084fc)](https://github.com/daniilkugot21042008-pixel)
-[![Learning](https://img.shields.io/badge/STATUS-Learning-7c3aed?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/daniilkugot21042008-pixel)
+<br>
+
+`GHOST://DANIIL` &nbsp; `● ONLINE`
+
+### Не знаю всего. Пока что — исследую.
+
+*Личный лог обучения, экспериментов и маленьких побед.*
 
 </div>
 
 ---
 
-## `> whoami`
+### `01 — whoami`
 
 ```text
-USER: Daniil
-ROLE: Student Developer
-MODE: Learning & Building
-THEME: Cyberpunk / Purple Neon
-MISSION: Turn ideas into code.
+> Привет! Я Даня.
+> Сейчас изучаю программирование и пробую разные идеи.
+> Этот профиль — мой цифровой блокнот:
+> здесь будут появляться проекты по мере того, как я их создаю.
 ```
 
-Hey! 👋 I'm **Daniil**, a beginner developer exploring the world of programming.
+```text
+STATUS   : LEARNING
+LOCATION : SOMEWHERE IN THE DIGITAL CITY
+NEXT     : BUILD SOMETHING SMALL
+```
 
-- 🌌 Learning something new every day
-- 💻 Building projects and experimenting with code
-- 🧩 Improving my problem-solving skills
-- 🚀 Turning small ideas into real projects
-- 🎯 Goal: become a better developer, one commit at a time
+### `02 — сейчас`
 
----
+- Изучаю основы и закрепляю их практикой.
+- Пробую идеи на небольших проектах.
+- Учусь разбираться в ошибках, а не просто обходить их.
 
-## `> current_mission`
+> `// Без гонки за цифрами. Главное — двигаться дальше.`
 
-<img src="https://img.shields.io/badge/01-Learn%20the%20fundamentals-6d28d9?style=flat-square" alt="Learn the fundamentals"/>  
-<img src="https://img.shields.io/badge/02-Build%20my%20first%20projects-7c3aed?style=flat-square" alt="Build projects"/>  
-<img src="https://img.shields.io/badge/03-Improve%20every%20day-a855f7?style=flat-square" alt="Improve every day"/>
+### `03 — мои репозитории`
 
-> `while (alive) { learn(); build(); repeat(); }`
+Пока коллекция только собирается. Новые работы будут появляться здесь — без выдуманных демо и несуществующих проектов.
 
----
+**[Открыть репозитории →](https://github.com/daniilkugot21042008-pixel?tab=repositories)**
 
-## `> tech_stack`
+### `04 — следы активности`
 
 <div align="center">
 
-<!-- Keep only technologies you actually use or are learning. -->
-
-<img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" alt="GitHub and VS Code"/>
+<img src="https://github-readme-stats.vercel.app/api?username=daniilkugot21042008-pixel&show_icons=true&hide_border=true&bg_color=080510&title_color=c084fc&icon_color=a855f7&text_color=e9ddff&hide_rank=true" height="150" alt="Статистика GitHub">
 
 </div>
 
-*More technologies will be added as I learn them.*
-
----
-
-## `> github_stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=daniilkugot21042008-pixel&show_icons=true&hide_border=true&bg_color=0d0618&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniilkugot21042008-pixel&layout=compact&hide_border=true&bg_color=0d0618&title_color=c084fc&text_color=e9d5ff" alt="Most used programming languages"/>
-
-</div>
-
----
-
-## `> featured_projects`
-
-<div align="center">
-
-[![Repositories](https://img.shields.io/badge/Explore%20my%20repositories-4c1d95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daniilkugot21042008-pixel?tab=repositories)
-
-*My project collection is growing. Stay tuned for new experiments!*
-
-</div>
+<sub>Карточка зависит от доступности внешнего сервиса; если она не загрузится, остальной профиль продолжит работать.</sub>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:4c1d95,100:a855f7&height=100&section=footer" width="100%" alt="Purple neon footer"/>
+`CONNECTION OPEN` · `SESSION: LEARNING`
 
-**`SYSTEM STATUS: LEARNING IN PROGRESS`**
+<img src="./assets/pong.gif" width="480" alt="Анимированный ретро Pong с белыми ракетками и мячом">
 
-<sub>Built with curiosity, caffeine-free energy, and 💜</sub>
+<sub>INSERT COIN · PRESS ANY KEY · END OF TRANSMISSION</sub>
 
 </div>
