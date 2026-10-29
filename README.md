@@ -69,16 +69,19 @@
 
 Когда появится проект, здесь можно добавить его название, описание и ссылку на репозиторий.
 
+
 ## `04 // GITHUB SIGNAL`
 
 <div align="center">
 
-<img src="./profile/stats.svg" alt="GitHub statistics" width="49%">
-<img src="./profile/top-langs.svg" alt="Most used programming languages" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabochuiDK&theme=github_dark" alt="GitHub contribution summary" width="100%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rabochuiDK&theme=github_dark" alt="Languages in public repositories" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rabochuiDK&theme=github_dark" alt="GitHub statistics" width="49%">
 
 </div>
 
-<sub>Статистика автоматически обновляется через GitHub Actions. Карточки отображают данные публичных репозиториев.</sub>
+<sub>Статистика формируется сторонним сервисом по публичным данным GitHub. Если карточки временно не загружаются, попробуй открыть профиль позже — это не мешает работе самого профиля.</sub>
 
 ## `05 // ARCADE`
 
