@@ -1,66 +1,75 @@
 <div align="center">
 
-<img src="./assets/neon-city.png" width="100%" alt="Пиксельный ночной город в фиолетовом неоне">
+<img src="assets/neon-city.png" alt="GHOST.exe — neon pixel city" width="100%">
 
-<br>
+### `> connection_established`
 
-`GHOST://DANIIL` &nbsp; `● ONLINE`
+**Привет, я Daniil. Добро пожаловать в мой цифровой уголок.**
 
-### Не знаю всего. Пока что — исследую.
+`CYBERPUNK` · `PIXEL ART` · `CODE & CURIOSITY`
 
-*Личный лог обучения, экспериментов и маленьких побед.*
+[![Profile views](https://komarev.com/ghpvc/?username=daniilkugot21042008-pixel&style=flat-square&color=8a2be2&label=PROFILE+VIEWS)](https://github.com/daniilkugot21042008-pixel)
 
 </div>
 
 ---
 
-### `01 — whoami`
-
 ```text
-> Привет! Я Даня.
-> Сейчас изучаю программирование и пробую разные идеи.
-> Этот профиль — мой цифровой блокнот:
-> здесь будут появляться проекты по мере того, как я их создаю.
+┌─ GHOST TERMINAL ─────────────────────────────┐
+│ STATUS  : ONLINE                             │
+│ MODE    : EXPLORING                          │
+│ FOCUS   : LEARNING / BUILDING / EXPERIMENTS  │
+│ SIGNAL  : ███████████░░  CONNECTED           │
+└──────────────────────────────────────────────┘
 ```
 
-```text
-STATUS   : LEARNING
-LOCATION : SOMEWHERE IN THE DIGITAL CITY
-NEXT     : BUILD SOMETHING SMALL
-```
+## `01 // ABOUT ME`
 
-### `02 — сейчас`
+- 🌌 Люблю атмосферу киберпанка, неон и пиксельную эстетику.
+- 🛠️ Изучаю новые инструменты и собираю собственные проекты.
+- 🎮 Иногда хочется просто запустить Pong и смотреть, как шарик не сдаётся.
 
-- Изучаю основы и закрепляю их практикой.
-- Пробую идеи на небольших проектах.
-- Учусь разбираться в ошибках, а не просто обходить их.
+> *Every system has a hidden side.*
 
-> `// Без гонки за цифрами. Главное — двигаться дальше.`
+## `02 // TOOLKIT`
 
-### `03 — мои репозитории`
+Замени строки ниже на то, чем действительно пользуешься:
 
-Пока коллекция только собирается. Новые работы будут появляться здесь — без выдуманных демо и несуществующих проектов.
+`LANGUAGES: добавь свои` · `TOOLS: добавь свои` · `CURRENTLY LEARNING: добавь тему`
 
-**[Открыть репозитории →](https://github.com/daniilkugot21042008-pixel?tab=repositories)**
+## `03 // PROJECTS`
 
-### `04 — следы активности`
+| Проект | Описание |
+|:--|:--|
+| `PROJECT_01` | Добавь сюда свой лучший проект |
+| `PROJECT_02` | Эксперимент, мини-игра или полезный инструмент |
+
+## `04 // GITHUB SIGNAL`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=daniilkugot21042008-pixel&show_icons=true&hide_border=true&bg_color=080510&title_color=c084fc&icon_color=a855f7&text_color=e9ddff&hide_rank=true" height="150" alt="Статистика GitHub">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=daniilkugot21042008-pixel&show_icons=true&hide_border=true&bg_color=080512&title_color=c77dff&text_color=d8ccf5&icon_color=55dfff&rank_icon=github" alt="GitHub stats">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniilkugot21042008-pixel&layout=compact&hide_border=true&bg_color=080512&title_color=c77dff&text_color=d8ccf5" alt="Top languages">
 
 </div>
 
-<sub>Карточка зависит от доступности внешнего сервиса; если она не загрузится, остальной профиль продолжит работать.</sub>
+## `05 // ARCADE`
+
+<div align="center">
+
+**GHOST PONG // AUTOPLAY**
+
+<img src="assets/pong.gif" alt="Endless neon Pong animation" width="560">
+
+`BALL: IN MOTION` · `PADDLES: ACTIVE` · `LOOP: ∞`
+
+</div>
 
 ---
 
 <div align="center">
 
-`CONNECTION OPEN` · `SESSION: LEARNING`
-
-<img src="./assets/pong.gif" width="480" alt="Анимированный ретро Pong с белыми ракетками и мячом">
-
-<sub>INSERT COIN · PRESS ANY KEY · END OF TRANSMISSION</sub>
+`END OF TRANSMISSION` · **Thanks for visiting.**
 
 </div>
