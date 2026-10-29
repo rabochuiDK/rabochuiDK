@@ -2,9 +2,11 @@
 
 <img src="assets/neon-city.png" alt="GHOST.exe — neon pixel city" width="100%">
 
+# `GHOST.exe`
+
 ### `> connection_established`
 
-**Привет, я Daniil. Добро пожаловать в мой цифровой уголок.**
+**Привет! Я Daniil — начинающий разработчик.**
 
 `CYBERPUNK` · `PIXEL ART` · `CODE & CURIOSITY`
 
@@ -17,42 +19,67 @@
 ```text
 ┌─ GHOST TERMINAL ─────────────────────────────┐
 │ STATUS  : ONLINE                             │
-│ MODE    : EXPLORING                          │
-│ FOCUS   : LEARNING / BUILDING / EXPERIMENTS  │
-│ SIGNAL  : ███████████░░  CONNECTED           │
+│ ROLE    : BEGINNER DEVELOPER                 │
+│ FOCUS   : LEARN / PRACTICE / IMPROVE         │
+│ NEXT    : TURN KNOWLEDGE INTO PROJECTS       │
 └──────────────────────────────────────────────┘
 ```
 
 ## `01 // ABOUT ME`
 
-- 🌌 Люблю атмосферу киберпанка, неон и пиксельную эстетику.
-- 🛠️ Изучаю новые инструменты и собираю собственные проекты.
-- 🎮 Иногда хочется просто запустить Pong и смотреть, как шарик не сдаётся.
+- 👨‍💻 Я только начинаю путь в разработке и постепенно набираюсь опыта.
+- 🌌 Нравятся киберпанк-атмосфера, неон и пиксельная эстетика.
+- 🧩 Сейчас моя цель — закреплять основы на практике и со временем создавать собственные проекты.
+- 🚧 Пока нет больших завершённых проектов — и это нормально: я учусь и двигаюсь шаг за шагом.
 
 > *Every system has a hidden side.*
 
-## `02 // TOOLKIT`
+## `02 // SKILL TREE`
 
-Замени строки ниже на то, чем действительно пользуешься:
+<div align="center">
 
-`LANGUAGES: добавь свои` · `TOOLS: добавь свои` · `CURRENTLY LEARNING: добавь тему`
+**LEARNED / STUDIED**
+
+![C++](https://img.shields.io/badge/C%2B%2B-studied-8a2be2?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**CURRENTLY LEARNING**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-learning-f0db4f?style=for-the-badge&logo=javascript&logoColor=111111)
+![HTML5](https://img.shields.io/badge/HTML5-learning-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-learning-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</div>
+
+- **C++** — изучил основы.
+- **JavaScript** — изучаю сейчас.
+- **HTML** — осваиваю разметку веб-страниц.
+- **Node.js** — изучаю среду для запуска JavaScript вне браузера.
 
 ## `03 // PROJECTS`
 
-| Проект | Описание |
-|:--|:--|
-| `PROJECT_01` | Добавь сюда свой лучший проект |
-| `PROJECT_02` | Эксперимент, мини-игра или полезный инструмент |
+Пока здесь нет крупных самостоятельных проектов — я ещё учусь. Вместо пустых карточек и выдуманных достижений оставляю этот раздел для будущих работ.
+
+```text
+[ PROJECTS: IN DEVELOPMENT ]
+> learning the basics...
+> practicing regularly...
+> building the first real project...
+```
+
+Когда появится проект, здесь можно добавить его название, описание и ссылку на репозиторий.
 
 ## `04 // GITHUB SIGNAL`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=daniilkugot21042008-pixel&show_icons=true&hide_border=true&bg_color=080512&title_color=c77dff&text_color=d8ccf5&icon_color=55dfff&rank_icon=github" alt="GitHub stats">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilkugot21042008-pixel&theme=github_dark" alt="GitHub contribution summary" width="100%">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniilkugot21042008-pixel&layout=compact&hide_border=true&bg_color=080512&title_color=c77dff&text_color=d8ccf5" alt="Top languages">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilkugot21042008-pixel&theme=github_dark" alt="Languages in public repositories" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilkugot21042008-pixel&theme=github_dark" alt="GitHub statistics" width="49%">
 
 </div>
+
+<sub>Статистика формируется сторонним сервисом по публичным данным GitHub. Если карточки временно не загружаются, попробуй открыть профиль позже — это не мешает работе самого профиля.</sub>
 
 ## `05 // ARCADE`
 
@@ -70,6 +97,6 @@
 
 <div align="center">
 
-`END OF TRANSMISSION` · **Thanks for visiting.**
+`END OF TRANSMISSION` · **Спасибо, что заглянул.**
 
 </div>
