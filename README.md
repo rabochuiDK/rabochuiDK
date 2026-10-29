@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="assets/neon-city.png" alt="GHOST.exe — neon pixel city" width="100%">
+<img src="assets/neon-city.png" alt="GHOST.exe - neon pixel city" width="100%">
 
 # `GHOST.exe`
 
 ### `> connection_established`
 
-**Привет! Я Daniil - начинающий разработчик.**
+**Привет! Я rabochuiDK - начинающий разработчик.**
 
 `CYBERPUNK` · `PIXEL ART` · `CODE & CURIOSITY`
 
-[![Profile views](https://komarev.com/ghpvc/?username=daniilkugot21042008-pixel&style=flat-square&color=8a2be2&label=PROFILE+VIEWS)](https://github.com/daniilkugot21042008-pixel)
+[![Profile views](https://komarev.com/ghpvc/?username=rabochuiDK&style=flat-square&color=8a2be2&label=PROFILE+VIEWS)](https://github.com/rabochuiDK)
 
 </div>
 
@@ -29,7 +29,7 @@
 
 - 👨‍💻 Я только начинаю путь в разработке и постепенно набираюсь опыта.
 - 🌌 Нравятся киберпанк-атмосфера, неон и пиксельная эстетика.
-- 🧩 Сейчас моя цель закреплять основы на практике и со временем создавать собственные проекты.
+- 🧩 Сейчас моя цель - закреплять основы на практике и со временем создавать собственные проекты.
 - 🚧 Пока нет больших завершённых проектов - и это нормально: я учусь и двигаюсь шаг за шагом.
 
 > *Every system has a hidden side.*
@@ -72,10 +72,10 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilkugot21042008-pixel&theme=github_dark" alt="GitHub contribution summary" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabochuiDK&theme=github_dark" alt="GitHub contribution summary" width="100%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilkugot21042008-pixel&theme=github_dark" alt="Languages in public repositories" width="49%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilkugot21042008-pixel&theme=github_dark" alt="GitHub statistics" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rabochuiDK&theme=github_dark" alt="Languages in public repositories" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rabochuiDK&theme=github_dark" alt="GitHub statistics" width="49%">
 
 </div>
 
